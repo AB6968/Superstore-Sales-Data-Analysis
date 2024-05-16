@@ -1,4 +1,5 @@
 # Superstore-Sales-Data-Analysis
+You can check my Linkedin post here: https://www.linkedin.com/pulse/thrilled-unveil-our-superstore-sales-analysis-aishwarya-bhosale-pmzof/?trackingId=W3A4fstMTjmJP9NiUNGssA%3D%3D
 Thrilled to unveil our Superstore Sales Dashboard! 🚀
 
 🛍️ Dataset: Leveraging the rich US sales dataset from our Super store, we've crafted a comprehensive dashboard using Power BI to gain valuable insights into our operations and customer behavior. A Superstore Giant is interested in our expertise to determine what works best for them due to the fierce competition in the market and the increasing demands placed on them. They want to know which categories, products, areas, and client groups they should focus on or steer clear of.
